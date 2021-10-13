@@ -1,0 +1,11 @@
+.calc-display {
+  height: 2.5em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-size: 2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
